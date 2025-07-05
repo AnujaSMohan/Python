@@ -5,8 +5,8 @@ from graphics.graphics2.sphere import *
 
 import math
 
-print("Name : Niranjana S Nair")
-print("Admission No: A24MCA047")
+print("Name : Anuja S Mohan ")
+print("Admission No: A24MCA016")
 print("Experiment No: 2")
 
 num=int(input("Enter the number to find square root"))
