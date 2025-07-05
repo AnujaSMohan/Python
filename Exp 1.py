@@ -1,5 +1,5 @@
-print("Niranjana S Nair")
-print("Admission No: A24MCA047")
+print("Name : Anuja S Mohan ")
+print("Admission No: A24MCA016")
 print("Date and leap year Experiment: 1")
 Day=int(input("enter the day"))
 Month=int(input(" enter the month"))
