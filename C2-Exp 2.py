@@ -1,5 +1,5 @@
-print("Name : Niranjana S Nair")
-print("Admission no : A24MCA047")
+print("Name : Anuja S Mohan ")
+print("Admission No: A24MCA016")
 print("Experiment no : 2")
 def char_freq(s):
     frequency = {}
