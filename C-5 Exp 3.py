@@ -1,5 +1,5 @@
-print("Name : Niranjana S Nair")
-print("Roll No: 47")
+print("Name : Anuja S Mohan ")
+print("Admission No: A24MCA016")
 print("Experiment No: 17")
 
 import csv
