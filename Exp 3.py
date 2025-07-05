@@ -1,5 +1,5 @@
-print("Niranjana S Nair")
-print("Admission No: A24MCA047")
+print("Name : Anuja S Mohan ")
+print("Admission No: A24MCA016")
 print("greatest,area,perimeter,volume Experiment: 3")
 
 a = int(input("enter a number:"))
