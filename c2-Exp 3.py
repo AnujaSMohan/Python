@@ -1,5 +1,5 @@
-print("Name : Niranjana S Nair")
-print("Admission no : A24MCA047")
+print("Name : Anuja S Mohan ")
+print("Admission No: A24MCA016")
 print("Experiment no : 3")
 def factor(n):
     return [i for i in range(1, n + 1) if n % i == 0]
